@@ -60,7 +60,7 @@
 //     //         Console.WriteLine(name);
 //     //     }
     
-//The first quiz
+//The second quiz
 class Program
 {
     public static double findsmallest(List < double > runData)
@@ -103,4 +103,4 @@ class Program
     }
 }
 
-//The second quiz
+
